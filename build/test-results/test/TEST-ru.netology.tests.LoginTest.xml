@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.tests.LoginTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-11-20T07:12:11" hostname="MSI" time="10.353">
+  <properties/>
+  <testcase name="Успешный вход с кодом из БД" classname="ru.netology.tests.LoginTest" time="7.488"/>
+  <testcase name="Блокировка после 3 неверных паролей" classname="ru.netology.tests.LoginTest" time="2.863"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+нояб. 20, 2026 2:12:16 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find CDP implementation matching 157
+нояб. 20, 2026 2:12:16 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
+WARNING: Unable to find version of CDP to use for 157.0.8103.80. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.13.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+]]></system-err>
+</testsuite>
